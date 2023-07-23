@@ -2,3 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
+
+.undistracted {
+  background: linear-gradient(103deg, #f510fa 0%, #267dff 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* font-family: Inter; */
+}
+* {
+  box-sizing: border-box;
+}
+.opt {
+  background: linear-gradient(
+    135deg,
+    rgba(0, 235, 249, 0.35) 0%,
+    rgba(251, 65, 255, 0.2) 100%
+  );
+}
+.shade1 {
+  background: #FFFFFF;
+  backdrop-filter: blur(50px);
+  box-shadow: 0px 4px 100px 20px rgba(252, 113, 255, 0.15);
+}
+.shade2 {
+  box-shadow: 0px 4px 100px 20px rgba(18, 255, 255, 0.2);
+  backdrop-filter: blur(50px);
+}

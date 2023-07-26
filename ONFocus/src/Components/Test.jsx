@@ -1,3 +1,4 @@
+import React from "react";
 import { HoverCard, Avatar, Text, Group, Stack } from "@mantine/core";
 
 function Demo({ user, handleLogout }) {

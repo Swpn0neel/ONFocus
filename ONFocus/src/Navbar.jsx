@@ -1,3 +1,4 @@
+import React from "react";
 import Logo from "./assets/FocusON.png";
 import { signInWithPopup } from "firebase/auth";
 import { auth, provider } from "./FirebaseConfig";

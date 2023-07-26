@@ -1,3 +1,4 @@
+import React from "react";
 import Girl from "./assets/image 21.png";
 import { auth, provider } from "./FirebaseConfig";
 import { signInWithPopup } from "firebase/auth";

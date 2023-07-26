@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import Music from "./Components/Music";
 import Timer from "./Components/Timer";

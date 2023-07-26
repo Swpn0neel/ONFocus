@@ -1,11 +1,11 @@
+import React from "react";
 import Navbar from "./Navbar";
 import Hero from "./Hero";
-// import Navbar_s from "./Navbar_s";
+import Navbar_s from "./Navbar_s";
 import { useState } from "react";
-// import Hero_s from "./Hero_s";
-// import { MantineProvider } from "@mantine/core";
+import Hero_s from "./Hero_s";
+import { MantineProvider } from "@mantine/core";
 
-// import "./App.css";
 
 function App() {
   const [user, setUser] = useState(null);

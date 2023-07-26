@@ -1,3 +1,4 @@
+import React from "react";
 import { Menu } from "@mantine/core";
 import Settings from "../assets/Settings.svg";
 

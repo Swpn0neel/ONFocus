@@ -1,3 +1,4 @@
+import React from "react";
 import Logo from "./assets/FocusON.png";
 import Test from "./Components/Test";
 export default function Navbar_s({ user, setUser }) {

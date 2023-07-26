@@ -1,3 +1,4 @@
+import React from "react";
 import Cross from "../assets/cross.png";
 
 export function TodoItem({ completed, id, title, toggleTodo, deleteTodo }) {

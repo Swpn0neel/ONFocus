@@ -34,9 +34,10 @@ export default function Hero({ setUser }) {
             </h1>
             <p className="text-black max-[300px]:pb-2 max-[300px]:text-xs xl:text-lg max-sm:text-center text-sm">
               Boost concentration and optimize study routines with FocusON.
-              Utilize the Pomodoro technique, our AI assistant, and
+              Utilize the Pomodoro technique, and
               productivity-enhancing ambient music. Personalize your study
               routine efficiently. Stay focused and undistracted.
+              And, keep an eye out for upcoming features!!
             </p>
             <div className="max-sm:mx-auto max-sm:pb-5">
               <button

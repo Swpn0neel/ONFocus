@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC9npgZHtOOW7nVtvcAMAAYsLoKzbH-Quw",
-  authDomain: "dark-foundry-386405.firebaseapp.com",
-  projectId: "dark-foundry-386405",
-  storageBucket: "dark-foundry-386405.appspot.com",
-  messagingSenderId: "451883263937",
-  appId: "1:451883263937:web:9ac6e799e78396dce63140",
-  measurementId: "G-1L0VFZ4LE0",
+  apiKey: "AIzaSyAcM5VqSR3nperxB610ewjsMtlWsl1ptms",
+  authDomain: "onfocus-1.firebaseapp.com",
+  projectId: "onfocus-1",
+  storageBucket: "onfocus-1.appspot.com",
+  messagingSenderId: "300696964608",
+  appId: "1:300696964608:web:92ba7e2859ae1e010952e5",
+  measurementId: "G-9E615GMYGF"
 };
 
 
